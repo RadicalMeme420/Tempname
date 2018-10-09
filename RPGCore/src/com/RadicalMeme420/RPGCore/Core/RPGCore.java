@@ -1,5 +1,11 @@
 package com.RadicalMeme420.RPGCore.Core;
 
-public class RPGCore {
+import org.bukkit.plugin.java.JavaPlugin;
 
+public class RPGCore extends JavaPlugin {
+
+	@Override
+	public void onEnable() {
+		
+	}
 }
